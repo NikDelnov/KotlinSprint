@@ -1,7 +1,6 @@
 package lesson_1
 
 fun main() {
-
     val totalOrders: Int = 75
     val thankYouMessage: String = "Thank You "
     println(thankYouMessage + totalOrders)
