@@ -1,6 +1,7 @@
 package lesson_1
 
 fun main () {
+
     val secondsInMinute = 60
     val minutesInHour = 60
     val secondsInHour = secondsInMinute * minutesInHour
