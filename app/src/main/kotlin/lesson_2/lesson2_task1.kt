@@ -1,4 +1,4 @@
-package lesson2
+package lesson_2
 
 fun main () {
     val score1 = 3
