@@ -12,4 +12,5 @@ kotlin {
 dependencies {
     // Add a dependency on the Kotlin Gradle plugin, so that convention plugins can apply it.
     implementation(libs.kotlinGradlePlugin)
+    //implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:2.0.0")
 }
